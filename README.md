@@ -11,7 +11,7 @@ Currently exploring **ML engineering**, containerized workflows, and scalable ba
 - 🔭 I’m currently working on ML pipeline automation and model deployment.
 - 🌱 Exploring **PyTorch**, **MLOps best practices**, and **distributed cloud systems**.
 - 💼 Experience with multiple **ML frameworks**, Docker, Kafka, Protobuf, and microservices.
-- 🌍 Based in Europe and open to relocation.
+- 🌍 Based in Spain and open to relocation.
 
 ---
 
